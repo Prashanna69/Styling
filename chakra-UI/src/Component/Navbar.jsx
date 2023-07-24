@@ -4,8 +4,8 @@ import React from 'react'
 const Navbar = () => {
   return (
 
-    <Flex as='nav' p = '10px' alignItems='center'>
-        <Heading as='h1'>Dojo Task</Heading> 
+    <Flex as='nav' p = '10px' alignItems='center' mb='3rem'>
+        <Heading as='h1'>Dojo Task</Heading>
         <Spacer />
         <HStack spacing='20px'>
 
@@ -17,7 +17,7 @@ const Navbar = () => {
         </HStack>
 
     </Flex>
-    
+
     // <Flex bg="gray.400" justifyContent="space-around" wrap="wrap" gap='2'>
     //     <Box width="200px" height="150px" bg="red.500">1</Box>
     //     <Box width="200px" height="150px" bg="blue.500">2</Box>
