@@ -70,6 +70,15 @@
          "description":"We need to add more products to the online store. We also need to add categories and filters to make it easier for users to find what they are looking for.",
          "author":"Yoshi",
          "img": " https://unsplash.com/photos/f7WFVDoQ0h4"
+      },
+
+      {
+         "id": 2,
+         "title": "Update user authentication",
+         "description": "We need to enhance the user authentication system to provide better security and support for multi-factor authentication.",
+         "author": "Sophia",
+         "img": "https://unsplash.com/photos/ABCD1234"
       }
+
    ]
   }

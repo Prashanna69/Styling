@@ -8,10 +8,10 @@ export default function RootLayout() {
     <Grid templateColumns='repeat(6,1fr)' bg='gray.100'>
       <GridItem
       as='aside'
-      colSpan={{ base : 6, lg: 2 , xl:1}}
+      colSpan={{ base : 6, lg: 1 , xl:1}}
       bg='purple.400'
       minH={{lg : '100vh'}}
-      p={{base : '20px' , lg: '30px'}} 
+      p={{base : '20px' , lg: '30px'}}
       >
         <Sidebar />
       </GridItem>
